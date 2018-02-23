@@ -1,0 +1,6 @@
+framework module HMCircularProgressBar {
+  umbrella header "HMCircularProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

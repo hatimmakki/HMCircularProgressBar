@@ -1,0 +1,16 @@
+PODS:
+  - HMCircularProgressBar (0.1.0)
+
+DEPENDENCIES:
+  - HMCircularProgressBar (from `../`)
+
+EXTERNAL SOURCES:
+  HMCircularProgressBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HMCircularProgressBar: 669d23970e46de01011e54191c846fb4eca55aa4
+
+PODFILE CHECKSUM: 0ff45f18fac443ddf558b5e4b4ca123e0d6b1672
+
+COCOAPODS: 1.4.0
