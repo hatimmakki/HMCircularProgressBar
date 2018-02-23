@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HMCircularProgressBar_Example' do
+  pod 'HMCircularProgressBar', :path => '../'
+
+  target 'HMCircularProgressBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
