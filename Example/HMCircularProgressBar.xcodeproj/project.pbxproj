@@ -41,12 +41,12 @@
 		607FACE51AFB9204008FA782 /* HMCircularProgressBar_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HMCircularProgressBar_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		60FDDB026D969C2CC7602BB2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		75D08B0A80D3183F977CB5B4 /* HMCircularProgressBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HMCircularProgressBar.podspec; path = ../HMCircularProgressBar.podspec; sourceTree = "<group>"; };
+		60FDDB026D969C2CC7602BB2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		75D08B0A80D3183F977CB5B4 /* HMCircularProgressBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HMCircularProgressBar.podspec; path = ../HMCircularProgressBar.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		986B8610BD924EA85ADBCA75 /* Pods-HMCircularProgressBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HMCircularProgressBar_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HMCircularProgressBar_Tests/Pods-HMCircularProgressBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CED756C273727CB971C7CE31 /* Pods-HMCircularProgressBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HMCircularProgressBar_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HMCircularProgressBar_Example/Pods-HMCircularProgressBar_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F07E50F8A771CF850F0D74BB /* Pods_HMCircularProgressBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HMCircularProgressBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F9C0EB067C0C3FC194BCA2B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F9C0EB067C0C3FC194BCA2B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
