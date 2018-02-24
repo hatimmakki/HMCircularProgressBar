@@ -20,6 +20,22 @@ it, simply add the following line to your Podfile:
 pod 'HMCircularProgressBar'
 ```
 
+## Usage
+- drag and drop a new UIView and assign it to CircularProgressView class
+- connect the view with the controller
+
+```swift
+@IBOutlet var progressView: CircularProgressView!
+```
+- Change progress value (0-1)
+```swift
+progressView.progress = 0.68
+progressView.progress2 = 0.34
+```
+## Functions (soon)
+
+## Features (soon)
+
 ## Author
 
 Hatim Makki, hatim.makki@gmail.com
